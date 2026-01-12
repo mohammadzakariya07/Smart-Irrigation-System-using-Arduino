@@ -46,5 +46,4 @@ and controls a water pump accordingly. It reduces water wastage and manual effor
 ## 👨‍💻 Author
 **Mohammad Zakariya**  
 B.Tech – Electronics & Communication Engineering
-
-⭐ Star this repository if you found it useful!
+Embedded Systems & IoT Enthusiast
