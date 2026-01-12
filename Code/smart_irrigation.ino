@@ -25,7 +25,7 @@ void setup() {
   digitalWrite(relayPin, HIGH);
 
   displayMessage("SMART IRRIGATION", "     SYSTEM", 2500);
-  displayMessage("B.Tech ECE", "4th Year", 2500);
+  displayMessage("B.Tech ECE", "3rd Year", 2500);
   lcd.clear();
 }
 
